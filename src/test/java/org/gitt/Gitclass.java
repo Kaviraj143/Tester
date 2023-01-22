@@ -12,5 +12,13 @@ public class Gitclass {
 	private void method3() {
 		System.out.println("king");
 	}
+	private void method4() {
+		System.out.println("ggg");
+		
+ }
+	private void method5() {
+		System.out.println("rrr");
+
+	}
 
 }
