@@ -28,12 +28,25 @@ public class Gitclass {
 		System.out.println("eee");
  
 	}
+	private void fight() {
+		System.out.println("how are you");
+
+	}
+	private void fork() {
+System.out.println("with");
+	}
 	private void gury() {
 System.out.println("kskks");
 	}
 	private void vcc() {
  System.out.println("mani");
 	}
+
 	
 
-}
+	}
+	
+
+	
+
+
