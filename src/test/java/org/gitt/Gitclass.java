@@ -18,7 +18,16 @@ public class Gitclass {
  }
 	private void method5() {
 		System.out.println("rrr");
-
+		
+}
+	private void method6() {
+		System.out.println("rrtt");
+ 
 	}
+	private void method7() {
+		System.out.println("eee");
+ 
+	}
+	
 
 }
