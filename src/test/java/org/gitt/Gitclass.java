@@ -41,6 +41,10 @@ System.out.println("kskks");
 	private void vcc() {
  System.out.println("mani");
 	}
+	private void tcc() {
+		// TODO Auto-generated method stub
+
+	}
 
 	
 
