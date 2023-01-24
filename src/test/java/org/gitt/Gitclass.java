@@ -43,9 +43,12 @@ System.out.println("kskks");
 	}
 	private void tcc() {
 		// TODO Auto-generated method stub
-
+		
 	}
+private void balu() {
+	// TODO Auto-generated method stub
 
+}
 	
 
 	}
